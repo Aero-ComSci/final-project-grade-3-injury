@@ -13,7 +13,7 @@ final-project-grade-3-injury created by GitHub Classroom
 
 
 # Using a Collection like a List
-- ```inventory = []
+```inventory = []
 stamina = 10
 health = 10
 days_survived = 0
