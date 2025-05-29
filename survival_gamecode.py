@@ -1,9 +1,9 @@
 import random
 
 inventory = []
+days_survived = 0
 stamina = 10
 health = 10
-days_survived = 0
 hunger = 10
 thirst = 10
 shelter_built = False
