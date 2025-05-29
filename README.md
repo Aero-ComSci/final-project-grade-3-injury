@@ -13,4 +13,13 @@ final-project-grade-3-injury created by GitHub Classroom
 
 
 # Using a Collection like a List
-- 
+- ```inventory = []
+stamina = 10
+health = 10
+days_survived = 0
+hunger = 10
+thirst = 10
+shelter_built = False
+
+resources = ["coconut", "fish", "wood", "fresh water", "berries", "fresh water", "banana", "rubber", "wood", "rubber"]```
+
