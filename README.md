@@ -34,7 +34,20 @@ shelter_built = False
 resources = ["coconut", "fish", "wood", "fresh water", "berries", "fresh water", "banana", "rubber", "wood", "rubber"]
 ```
 # Using a Function
-- 
+```def eat_food():
+    global hunger
+    global stamina
+    global health
+    for food in ["coconut", "fish", "berries", "banana"]:
+        if food in inventory:
+            print(f"You eat {food}, feeling stronger. You gained 3 hunger points, 3 stamina points, and 3 health points.")
+            hunger += 3
+            stamina += 3
+            health += 3
+            inventory.remove(food)
+            return
+    print("Your stomach growls... no food left.")
+```
 
 
 
