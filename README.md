@@ -11,3 +11,6 @@ final-project-grade-3-injury created by GitHub Classroom
 
 - What this program does it automate and create an environement where the user is forced to make decisions based on their own choices, and due to this will either end up avoiding death on the island. But, on the other hand the user could also make terrible decisions leading to their ultimate demise. So, what this code is essentially automating is an infinite loop where there is a day counter counting down every single day the user is trying to surivive on the island. Also, it adds the possibility of there being a 50% chance of something terrible happening daily and there is always the possibility that the person could die anyday. To end off, what this program does is use functions specifically in our code we used the function (def eat_food) and what this does it allow the user a selection and the ability to eat food which increases things like stamina, and health so that the user can survive longer on the island avoiding death.
 
+
+# Using a Collection like a List
+- 
