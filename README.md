@@ -13,14 +13,15 @@ final-project-grade-3-injury created by GitHub Classroom
 
   
 # Using a Loop
-```while stamina > 0 and hunger > 0 and thirst > 0 and health > 0:
+```
+while stamina > 0 and hunger > 0 and thirst > 0 and health > 0:
     days_survived += 1
     print(f"\nDay {days_survived} Begins")
     print(f"Stamina: {stamina}")
     print(f"Thirst: {thirst}")
     print(f"Hunger: {hunger}")
-    print(f"Health: {health}")```
-
+    print(f"Health: {health}")
+```
 # Using a Collection like a List
 ```inventory = []
 stamina = 10
@@ -30,7 +31,10 @@ hunger = 10
 thirst = 10
 shelter_built = False
 
-resources = ["coconut", "fish", "wood", "fresh water", "berries", "fresh water", "banana", "rubber", "wood", "rubber"]```
+resources = ["coconut", "fish", "wood", "fresh water", "berries", "fresh water", "banana", "rubber", "wood", "rubber"]
+```
+# Using a Function
+- 
 
 
 
