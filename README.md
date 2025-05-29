@@ -23,7 +23,8 @@ while stamina > 0 and hunger > 0 and thirst > 0 and health > 0:
     print(f"Health: {health}")
 ```
 # Using a Collection like a List
-```inventory = []
+```
+inventory = []
 stamina = 10
 health = 10
 days_survived = 0
@@ -34,7 +35,8 @@ shelter_built = False
 resources = ["coconut", "fish", "wood", "fresh water", "berries", "fresh water", "banana", "rubber", "wood", "rubber"]
 ```
 # Using a Function
-```def eat_food():
+```
+def eat_food():
     global hunger
     global stamina
     global health
