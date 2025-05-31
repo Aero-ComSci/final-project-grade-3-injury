@@ -59,6 +59,10 @@ def eat_food():
 ![Screenshot 2025-05-29 100059](https://github.com/user-attachments/assets/6747038d-5f34-4253-bf11-10f99b1a439b)
 ![Screenshot 2025-05-29 100115](https://github.com/user-attachments/assets/8f8f1021-ee3e-4276-ab0b-5205094e83ac)
 
+# Video
+https://github.com/user-attachments/assets/68e2b198-05ba-41f5-abac-82577f8ae885
+
+
 
 
 
